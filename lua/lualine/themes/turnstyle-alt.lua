@@ -1,7 +1,7 @@
 local p = require("turnstyle.palette")
 local config = require("turnstyle.config")
 
-local bg_base = p.base
+local bg_base = p.light_design_low
 if config.options.styles.transparency then
 	bg_base = "NONE"
 end
