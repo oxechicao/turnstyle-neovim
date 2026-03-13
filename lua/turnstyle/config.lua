@@ -65,9 +65,9 @@ config.options = {
 		---@type string | PaletteColor
 		h1 = "gravity",
 		h2 = "birds",
-		h3 = "never_enough",
+		h3 = "sole",
 		h4 = "sunshower",
-		h5 = "sole",
+		h5 = "tlc",
 		h6 = "generator",
 	},
 
