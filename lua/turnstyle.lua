@@ -368,7 +368,6 @@ local function set_highlights()
 		["@markup.math"] = { link = "Special" },
 		["@markup.environment"] = { link = "Macro" },
 		["@markup.environment.name"] = { link = "@type" },
-
 		-- ["@markup.link"] = {},
 		["@markup.link.markdown_inline"] = { fg = palette.mistery },
 		["@markup.link.label.markdown_inline"] = { fg = palette.sunshower },
